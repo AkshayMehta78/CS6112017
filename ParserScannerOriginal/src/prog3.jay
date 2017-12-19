@@ -1,0 +1,3 @@
+// Syntactical error:  - ; missing
+void main(){
+int n}
